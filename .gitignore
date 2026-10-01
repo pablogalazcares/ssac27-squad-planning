@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.venv/
+.DS_Store
+paper2_optimization/outputs/_logs/
+paper2_optimization/outputs/p11_e5a/*/
